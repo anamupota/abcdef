@@ -1,6 +1,7 @@
 /*
 * Simple Wiselib Example
 second
+third
 */
 
 #include "external_interface/external_interface.h"
