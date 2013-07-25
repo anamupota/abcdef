@@ -2,6 +2,7 @@
 * Simple Wiselib Example
 second
 third
+fourth
 */
 
 #include "external_interface/external_interface.h"
