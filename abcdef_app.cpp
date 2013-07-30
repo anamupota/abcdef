@@ -7,6 +7,11 @@ sixth
 sdfsfqsfqsfqsfe
 new changes
 eight
+lkdgkldjqs
+qjsdfhjklqsdfklsd
+qskfhjqsdfhjkqsdf*
+lsdfhqsdklfh
+
 ninths
 10ths
 with quotes and double quotes in the commit messge.
