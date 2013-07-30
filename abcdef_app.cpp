@@ -9,6 +9,10 @@ new changes
 eight
 ninths
 10ths
+with quotes and double quotes in the commit messge.
+with quotes and double quotes in the commit messge anotsrjheh.
+qjksdfhjsdhf*sdfjhsjkdhfjkqsf
+
 */
 
 #include "external_interface/external_interface.h"
